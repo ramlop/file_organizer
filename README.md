@@ -1,2 +1,2 @@
-# file_organizer
-Application for organizing files.
+# test app
+Test app.
